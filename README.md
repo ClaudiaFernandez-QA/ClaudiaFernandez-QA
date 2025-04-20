@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Clau
+
+Después de trabajar como desarrolladora fullstack, me di cuenta de que lo que realmente disfruto es asegurar la calidad de los productos y la experiencia del usuario.
+
+Por eso empecé a formarme como QA Analyst, explorando el mundo del testing manual, el análisis funcional y la automatización. Estoy en plena transición, aprendiendo y armando proyectos que me ayuden a crecer en este nuevo camino.
+
+
 
 <!--
 **ClaudiaFernandez-QA/ClaudiaFernandez-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
