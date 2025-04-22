@@ -10,20 +10,20 @@ Estoy en plena transición, aprendiendo y armando proyectos que me ayuden a crec
 
 ## 🧪 Proyectos personales de testing
 
+### 🔹 [DummyJSON – API Testing](https://github.com/ClaudiaFernandez-QA/api-tests-dummyjson)
+Proyecto de práctica orientado a validar distintos endpoints públicos (GET, POST, PUT, DELETE) utilizando la API de DummyJSON.  
+Se trabajó con validaciones dinámicas, uso de variables, scripts y assertions para reforzar conceptos de testing de APIs.
+
+**Tecnologías:** `Postman`, `Newman`
+
+---
+
 ### 🔹 [Turnos Pelu Canina – API Testing](https://github.com/ClaudiaFernandez-QA/turnos-pelucanina)
 Proyecto que simula el alta de turnos en una API ficticia para una peluquería canina.  
 Se trabajó sobre un flujo de creación de turnos utilizando **reglas de negocio propias implementadas directamente en Postman**, ya que el backend (crudcrud.com) no incluye validaciones reales.  
 El foco principal estuvo en la implementación de **Data Driven Testing** y la automatización del flujo con **Newman**.
 
 **Tecnologías:** `Postman`, `Newman`, `JSON`
-
----
-
-### 🔹 [DummyJSON – API Testing](https://github.com/ClaudiaFernandez-QA/api-tests-dummyjson)
-Proyecto de práctica orientado a validar distintos endpoints públicos (GET, POST, PUT, DELETE) utilizando la API de DummyJSON.  
-Se trabajó con validaciones dinámicas, uso de variables, scripts y assertions para reforzar conceptos de testing de APIs.
-
-**Tecnologías:** `Postman`, `Newman`
 
 ---
 
