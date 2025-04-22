@@ -3,8 +3,8 @@
 
 Después de trabajar como desarrolladora fullstack, me di cuenta de que lo que realmente disfruto es asegurar la calidad de los productos y la experiencia del usuario.
 
-Por eso empecé a formarme como **QA Analyst**, explorando el mundo del testing manual, el análisis funcional y la automatización.  
-Estoy en plena transición, aprendiendo y armando proyectos que me ayuden a crecer en este nuevo camino.
+Por eso decidí enfocar mi carrera en el área de calidad, formándome como **QA Analyst** y profundizando en el testing manual, el análisis funcional y la automatización.  
+Estoy en plena transición, aplicando lo que aprendo en proyectos prácticos que me ayudan a seguir creciendo en este nuevo camino.
 
 ---
 
