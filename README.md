@@ -28,8 +28,17 @@ El foco principal estuvo en la implementación de **Data Driven Testing** y la a
 ---
 
 ### 🔹 [Automation Exercise – UI Testing con Playwright](https://github.com/ClaudiaFernandez-QA/automation-exercise)
-Proyecto en desarrollo enfocado en automatización de pruebas de interfaz de usuario sobre el sitio [automationexercise.com](https://automationexercise.com).  
+Proyecto enfocado en automatización de pruebas de interfaz de usuario sobre el sitio [automationexercise.com](https://automationexercise.com).  
 Se organizan los casos por flujo funcional (login, productos, home, contacto), aplicando buenas prácticas de testing con **Playwright** y **TypeScript**.  
 Se valida estructura de elementos, navegación, comportamiento interactivo y manejo de diálogos.
 
 **Tecnologías:** `Playwright`, `TypeScript`
+
+---
+
+### 🔹 [Shady Meadows B&B – Documentación y Testing](https://github.com/ClaudiaFernandez-QA/automation-in-testing)
+Proyecto **en desarrollo** orientado a practicar la documentación y análisis de pruebas funcionales sobre el sitio [Automation in Testing](https://automationintesting.online/).  
+Incluye la creación de **User Stories, Criterios de Aceptación, Casos de Prueba y Reportes de Bugs** sobre las funcionalidades principales del sitio.
+
+**Tecnologías:** `Markdown`
+
